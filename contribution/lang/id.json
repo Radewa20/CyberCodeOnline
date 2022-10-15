@@ -137,7 +137,7 @@
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Anda menemukan kotak rampasan yang dikunci dengan keypad berwarna, Anda harus dapat membukanya dengan urutan warna yang benar.",
+ 	 	 	 	 	"trans": "Anda menemukan kotak jarahan yang dikunci dengan keypad berwarna, Anda harus dapat membukanya dengan urutan warna yang benar.",
  	 	 	 	 	"eng": "You found a locked loot box with color keypad, you should be able to unlock it with the correct sequence of colors."
  	 	 	 	},
  	 	 	 	"progress": {
@@ -151,7 +151,7 @@
  	 	 	 	 	"eng": "seconds"
  	 	 	 	},
  	 	 	 	"colorBox": {
- 	 	 	 	 	"trans": "Klik pada warna ini di bawah ini",
+ 	 	 	 	 	"trans": "Klik pada warna di bawah ini",
  	 	 	 	 	"eng": "Click on this color below"
  	 	 	 	},
  	 	 	 	"lose": {
@@ -174,7 +174,7 @@
  	 	},
  	 	"supportUkraine": {
  	 	 	"description": {
- 	 	 	 	"trans": "Orang-orang Ukraina, Rusia dan seluruh dunia menderita karena ambisi satu orang. \\n Exploitasi cinta, bukan perang.",
+ 	 	 	 	"trans": "Orang-orang Ukraina, Rusia dan seluruh dunia menderita karena ambisi satu orang. \\n Buatlah exploitasi cinta, bukan perang.",
  	 	 	 	"eng": "People of Ukraine, Russia and the whole world are suffering because one man's ambition.\\n Make love exploit, not war."
  	 	 	}
  	 	},
@@ -204,7 +204,7 @@
  	 	 	 	"eng": "Deposit Item"
  	 	 	},
  	 	 	"putItemToVaultDesc": {
- 	 	 	 	"trans": "Masukkan barang ke lemari besi Anda",
+ 	 	 	 	"trans": "Masukkan barang ke lemari besi anda",
  	 	 	 	"eng": "Put items into your vault"
  	 	 	},
  	 	 	"takeItemFromVault": {
@@ -219,7 +219,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"upgradeToSlot"
  	 	 	 	],
- 	 	 	 	"trans": "TINGKATKAN KE ${upgradeToSlot} SLOT",
+ 	 	 	 	"trans": "TINGKATKAN KE SLOT ${upgradeToSlot}",
  	 	 	 	"eng": "UPGRADE TO ${upgradeToSlot} SLOTS"
  	 	 	},
  	 	 	"upgradeSlotDesc": {
@@ -276,7 +276,7 @@
  	 	},
  	 	"generalCaptcha": {
  	 	 	"story": {
- 	 	 	 	"trans": "Kamu menemukan brankas tua yang terkunci, sepertinya ada note dengan tulisan di atasnya.",
+ 	 	 	 	"trans": "Kamu menemukan brankas tua yang terkunci, sepertinya ada nota dengan tulisan di atasnya.",
  	 	 	 	"eng": "You found an old locked safe box, there seems like a post-it with some text written on it."
  	 	 	},
  	 	 	"title": {
@@ -379,7 +379,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"cost"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Obrolan geng akan diaktifkan saat Anda menjadi anggota geng. \\ njoin geng dengan berteman dalam obrolan global atau membuat geng Anda sendiri dan mengundang teman -teman Anda!",
+ 	 	 	 	 	"trans": "Obrolan geng akan diaktifkan saat Anda menjadi anggota geng. \\ njoin sebuah geng dengan berteman dalam obrolan global atau membuat geng Anda sendiri dan mengundang teman -teman Anda!",
  	 	 	 	 	"eng": "gang chat will be enabled when you belong to a gang.\\njoin a gang by making friends in global chat or create your own gang and invite your friends!"
  	 	 	 	},
  	 	 	 	"createButton": {
@@ -457,7 +457,7 @@
  	 	 	},
  	 	 	"bindModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Pilih item yang dapat digunakan untuk mengikat slot cepat",
+ 	 	 	 	 	"trans": "Pilih item yang dapat digunakan untuk digunakan pada slot cepat",
  	 	 	 	 	"eng": "Select a usable item to bind to a quick slot"
  	 	 	 	}
  	 	 	}
@@ -552,7 +552,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Global skip membuatmu melewati waktu tunggu AFK, dan menyelesaikannya saat itu juga. \n     Efek ini akan diterapkan untuk semua pemain yang melakukan tugas AFK",
+ 	 	 	 	"trans": "Global skip membuatmu melewati waktu tunggu AFK, dan menyelesaikannya dengan instan. \n     Efek ini akan diterapkan untuk semua pemain yang melakukan tugas AFK",
  	 	 	 	"eng": "Global Skip allow you to skip the AFK waiting time, and finish it instantly.\r\n    this effect will be applied to all players performing an AFK task"
  	 	 	}
  	 	},
@@ -649,7 +649,7 @@
  	 	 	 	"eng": "[AOE] Area of Effect, the effect of this item will apply allies in combat with you."
  	 	 	},
  	 	 	"equip": {
- 	 	 	 	"trans": "Lengkapi",
+ 	 	 	 	"trans": "Pakai",
  	 	 	 	"eng": "Equip"
  	 	 	},
  	 	 	"cantEquip": {
